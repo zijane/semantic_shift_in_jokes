@@ -1,2 +1,2 @@
-# semantic_shift_in_jokes
-This repository contains information, applied to the paper : a working corpus, results (tables, and their description), code.
+# The Semantic Shift in Jokes: first computational experiments
+This repository contains information, applied to the paper "The Semantic Shift in Jokes: first computational experiments" : a working corpus, results (tables, and their description), code.
